@@ -26,7 +26,7 @@ tagline: Slimming Configuration Explore # it will display as the sub-title
 #   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://diplomatist-cross.github.io'
+url: 'https://diplomatist-cross.github.io/'
 
 github:
   username: diplomatist-cross # change to your github username
@@ -39,7 +39,7 @@ social:
   # email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://diplomatist-cross # change to your github homepage
+    - https://github.com/diplomatist-cross # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
